@@ -1,0 +1,11 @@
+﻿body
+{
+    background-image: url('background.png');
+}
+
+#game
+{
+    position:fixed;
+    top:0px;
+    left:0px;
+}
